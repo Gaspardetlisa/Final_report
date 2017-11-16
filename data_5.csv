@@ -1,0 +1,57 @@
+id,value
+KEGG,
+KEGG.Metabolism,12
+KEGG.Genetic Information Processing,5
+KEGG.Environmental information Processing,3
+KEGG.Cellular Processes,5
+KEGG.Organismal systems,10
+KEGG.Human Diseases,8
+KEGG.Unclassified,5
+KEGG.Metabolism.Carbohydrate metabolism,15
+KEGG.Metabolism.Energy metabolism,9
+KEGG.Metabolism.Lipid metabolism,18
+KEGG.Metabolism.Nucleotide metabolism,2
+KEGG.Metabolism.Amino acid metabolism,15
+KEGG.Metabolism.Metabolism of other amino acids,9
+KEGG.Metabolism.Glycan biosynthesis and metabolism,22
+KEGG.Metabolism.Metabolism of cofactors and vitamins,12
+KEGG.Metabolism.Metabolism of terpenoids and polyketides,23
+KEGG.Metabolism.Biosynthesis of other secondary metabolites,28
+KEGG.Metabolism.Xenobiotics biodegradation and metabolism,22
+KEGG.Metabolism.Enzyme families,6
+KEGG.Genetic Information Processing.Transcription,6
+KEGG.Genetic Information Processing.Translation,11
+"KEGG.Genetic Information Processing.Folding, sorting and degradation",11
+KEGG.Genetic Information Processing.Replication and repair,10
+KEGG.Genetic Information Processing.RNA family,11
+KEGG.Environmental information Processing.Membrane transport,5
+KEGG.Environmental information Processing.Signal transduction,34
+KEGG.Environmental information Processing.Signaling molecules and interaction,15
+KEGG.Cellular Processes.Transport and catabolism,11
+KEGG.Cellular Processes.Cell growth and death,12
+KEGG.Cellular Processes.Cellular community - eukaryotes,5
+KEGG.Cellular Processes.Cellular community - prokaryotes,4
+KEGG.Cellular Processes.Cell motility,5
+KEGG.Organismal systems.Immune system,20
+KEGG.Organismal systems.Endocrine system,19
+KEGG.Organismal systems.Circulatory system,3
+KEGG.Organismal systems.Digestive system,9
+KEGG.Organismal systems.Excretory system,5
+KEGG.Organismal systems.Nervous system,10
+KEGG.Organismal systems.Sensory system,5
+KEGG.Organismal systems.Development,3
+KEGG.Organismal systems.Aging,3
+KEGG.Organismal systems.Environmental adaptation,5
+KEGG.Human Diseases.Cancers,24
+KEGG.Human Diseases.Immune diseases,8
+KEGG.Human Diseases.Neurodegenerative diseases,5
+KEGG.Human Diseases.Substance dependence,5
+KEGG.Human Diseases.Cardiovascular diseases,5
+KEGG.Human Diseases.Endocrine and metabolic diseases,6
+KEGG.Human Diseases.Infectious diseases,25
+KEGG.Human Diseases.Drug resistance,8
+KEGG.Unclassified.Metabolism,9
+KEGG.Unclassified.Genetic information processing,5
+KEGG.Unclassified.Cellular processes and signaling,6
+KEGG.Unclassified.Viral protein family,1
+KEGG.Unclassified.Poorly characterized,2
