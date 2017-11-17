@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html>
 <meta charset="utf-8">
 <style>
   .axis path,
@@ -13,7 +14,9 @@
       font-size: 11px;
   }
 </style>
-
+<body>
+<h>Heatmap of gene expression</h>
+<p>Value less than 50, Navy; Value between 50 and 500, Gold; Value between 500 and 5000, Green; Value more than 5000, Red</p>
 <div class="heatmap"></div>
 
 <script src="//d3js.org/d3.v3.min.js"></script>
@@ -104,3 +107,5 @@
         });
   });
 </script>
+</body>
+</html>
